@@ -1,9 +1,6 @@
 ### Hi, I am Chiemezie Precious Jacob 👋
 
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Reactjs projects.
 - 🌱 I’m currently learning C and Reactjs.
 - 👯 I’m looking to collaborate on Open Source Projects.
