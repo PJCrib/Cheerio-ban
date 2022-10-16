@@ -1,4 +1,4 @@
-### Hi, I am Chiemezie Precious Jacob 👋
+### Hi, I am Precious Jacob 👋
 
 
 - 🔭 I’m currently working on Reactjs projects.
@@ -8,6 +8,6 @@
 - 📫 How to reach me: chiemezie.jacob@gmail.com
 - 😄 Pronouns: He/Him.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cheerio-ban&theme=radical)
+![Cheerio-ban's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cheerio-ban&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cheerio-ban&theme=gruvbox)
