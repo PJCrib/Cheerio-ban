@@ -1,13 +1,8 @@
-### Hi, I am Precious Jacob 👋
+### Hi, there!
+
+I am Precious Jacob, a Biomedical Engineering Undergraduate at the University of Lagos and a graduate of the [alx_africa](alxafrica.com) 12-month Software Engineering Program. I am a budding software engineer with interests in Backend Development and Cloud technologies. My toolkit includes Flask, Node and NestJS and I am presently eager to collaborate on any exciting NestJS Open Source Projects
 
 
-- 🔭 I’m currently working on Reactjs projects.
-- 🌱 I’m currently learning C and Reactjs.
-- 👯 I’m looking to collaborate on Open Source Projects.
-- 💬 Ask me about React, C or any tech related stuff.
-- 📫 How to reach me: chiemezie.jacob@gmail.com
-- 😄 Pronouns: He/Him.
+![Precious' GitHub stats](https://github-readme-stats.vercel.app/api?username=PJCrib&theme=radical)
 
-![Cheerio-ban's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cheerio-ban&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cheerio-ban&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PJCrib&theme=gruvbox)
